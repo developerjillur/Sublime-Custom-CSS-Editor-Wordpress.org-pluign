@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sublime Custom CSS Editor\n"
+"POT-Creation-Date: 2015-12-21 15:44+0600\n"
+"PO-Revision-Date: 2015-12-21 15:45+0600\n"
+"Last-Translator: \n"
+"Language-Team: AsianCoders <asiancodersteam@gamil.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/sublimecsse_function.php:17
+msgid "Your Custom Styles was sucessfully updated."
+msgstr ""
+
+#: inc/sublimecsse_function.php:27 sublime-custom-css-editor.php:39
+msgid "Sublime Custom CSS Editor"
+msgstr ""
+
+#: inc/sublimecsse_function.php:30
+msgid "Press <code>Ctrl+Space</code> to hint/autocompletion."
+msgstr ""
+
+#: inc/sublimecsse_function.php:39
+msgid "Save Custom Styles"
+msgstr ""
+
+#: sublime-custom-css-editor.php:27
+msgid "Settings"
+msgstr ""
+
+#: sublime-custom-css-editor.php:39
+msgid "Sublime Custom CSS"
+msgstr ""
